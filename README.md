@@ -19,28 +19,28 @@
 日本领本只有四个岛  
 独岛是谁的没人关心  
 
-请注意以上为本人的个人观点，与开源协议没有任何关联，如果你不同意本人的个人观点，虽然你不受本人待见，但你仍然被欢迎使用本人的所有开源项目。 
+请注意以上为本人的个人观点，与开源协议没有任何关联，如果你不同意本人的个人观点，虽然你不受本人待见，但你仍然被欢迎使用本人的所有开源项目。  
 
-以下为此文的英文翻译，如有岐义，以中文为准：
+以下为此文的英文翻译，如有岐义，以中文为准：  
 
-I (Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this statement.
+I (Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this statement.  
 
-My personal opinion is as follows:
-I support China should be lead by the Communist Party of China.
-Elections in capitalist countries are rigged by political donations, and media propaganda is controlled by chaebols, which is a fake democracy
-The covid19 virus is e-cigarette virus.  
-U.S. Invasion Is Illegal Because of Irak R&D of Laundry Detergents
-It is illegal for the United States to develop laundry detergents in mainland China and Ukraine
-Indigenous genocide in Canada, US, Israel, Ukraine
-China's Xinjiang genocide is a lie
-Taiwan is a province of China
-Diaoyu Islands are China's  
-Southern Tibet belongs to China
-The original four northern islands of Japan belong to Russia
-Crimea is Russian
-The Falklands are from Argentina
-Kosovo is Yugoslavia
-There are only four islands in Japan
-No one cares who Dokdo belongs to
+My personal opinion is as follows:  
+I support China should be lead by the Communist Party of China.  
+Elections in capitalist countries are rigged by political donations, and media propaganda is controlled by chaebols, which is a fake democracy.  
+The covid19 virus is e-cigarette virus.    
+U.S. Invasion Is Illegal Because of Irak R&D of Laundry Detergents.  
+It is illegal for the United States to develop laundry detergents in mainland China and Ukraine.  
+Indigenous genocide in Canada, US, Israel, Ukraine.  
+China's Xinjiang genocide is a lie.  
+Taiwan is a province of China.  
+Diaoyu Islands are China's.  
+Southern Tibet belongs to China.  
+The original four northern islands of Japan belong to Russia.  
+Crimea is Russian.  
+The Falklands are from Argentina.  
+Kosovo is Yugoslavia.  
+There are only four islands in Japan.  
+No one cares who Dokdo belongs to.  
 
-Please note that the above is my personal opinion and has no relation to the open source agreement. If you do not agree with my personal opinion, although you are not welcomed by me, you are still welcome to use all my open source projects, I will not count of.
+Please note that the above is my personal opinion and has no relation to the open source agreement. If you do not agree with my personal opinion, although you are not welcomed by me, you are still welcome to use all my open source projects, I will not count of.  
