@@ -1,5 +1,5 @@
 # 本人简介
-生于70年代，卒：代定  
+生于70年代，卒：待定  
 
 # 声明  
 本人(Yong)反对在开源项目中引入和技术无关的言论，如果本人的开源项目中使用的第三方项目中带有和技术无关的言论，并不能代表本人的立场，特在此统一声明。  
@@ -24,17 +24,14 @@
 
 请注意以上为本人的个人观点，与开源协议没有任何关联，如果你不同意本人的个人观点，虽然你不受本人待见，但你仍然被欢迎使用本人的所有开源项目。  
 
-以下为此文的英文翻译，如有岐义，以中文为准：  
-# About Me
-
 # My life profile
-Born in the 1970s, died: Daiding
+Born in the 1970s, die: to be certainly
 
 # Declaration
 I (Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this statement.  
 
-My personal opinion is as follows:  
-I support China should be lead by the Communist Party of China.  
+# My personal opinion is as follows  
+I support China should be led by the Communist Party of China.  
 Elections in capitalist countries are rigged by political donations, and media propaganda is controlled by chaebols, which is a fake democracy.  
 The covid19 virus is e-cigarette virus.    
 U.S. Invasion Is Illegal Because of Irak R&D of Laundry Detergents.  
