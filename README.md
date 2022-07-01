@@ -48,4 +48,4 @@ Kosovo is Yugoslavia.
 There are only four islands in Japan.  
 No one cares who Dokdo belongs to.  
 
-Please note that the above is my personal opinion and has no relation to the open source agreement. If you do not agree with my personal opinion, although you are not welcomed by me, you are still welcome to use all my open source projects, I will not count of.  
+Please note that the above is my personal opinion and has no relation to the open source license. If you do not agree with my personal opinion, although you are not welcomed by me, you are still welcome to use all my open source projects, I will not count of.  
