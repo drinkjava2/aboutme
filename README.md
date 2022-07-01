@@ -23,12 +23,12 @@
 
 以下为此文的英文翻译，如有岐义，以中文为准：
 
-I (Yong) object to the introduction of remarks that are not related to technology in open source projects. If there are remarks that are not related to technology in third-party projects used in my open source projects, it does not represent my position, and I hereby make a unified statement.
+I (Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this statement.
 
-My personal opinion is as follows
-I support the Communist Party of China leading China
+My personal opinion is as follows:
+I support China should be lead by the Communist Party of China.
 Elections in capitalist countries are rigged by political donations, and media propaganda is controlled by chaebols, which is a fake democracy
-The new crown is e-cigarette pneumonia
+The covid19 virus is e-cigarette virus.  
 U.S. Invasion Is Illegal Because of Irak R&D of Laundry Detergents
 It is illegal for the United States to develop laundry detergents in mainland China and Ukraine
 Indigenous genocide in Canada, US, Israel, Ukraine
