@@ -24,7 +24,7 @@
 
 请注意以上为本人的个人观点，与开源协议没有任何关联，如果你不同意本人的个人观点，虽然你不受本人待见，但你仍然被欢迎使用本人的所有开源项目。  
 
-(以下翻译如有岐意，以中文为准 If there is any discrepancy between the following translations, the Chinese version shall prevail)  
+(以下翻译如有岐意，以中文为准 If there is any discrepancy in the following translations, the Chinese version shall prevail)  
 # My life profile
 Born in the 1970s, die: TBD
 
