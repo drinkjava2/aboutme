@@ -1,5 +1,5 @@
 # About Me 关于本人
-本人(Yong)所有开源项目中如果引用到的第三方项目中带有和技术无关的言论，并不能代表本人的立场，特在此统一声明:  
+本人(Yong)反对在开源项目中引入和技术无关的言论，如果本人的开源项目中使用的第三方项目中带有和技术无关的言论，并不能代表本人的立场，特在此统一声明。  
 
 本人的个人观点如下   
 我赞成中国共产党领导中国  
@@ -23,7 +23,7 @@
 
 以下为此文的英文翻译，如有岐义，以中文为准：
 
-In all my (Yong) open source projects, if there are remarks in third-party projects that have nothing to do with technology, it does not represent my position. I hereby make a unified statement:
+I (Yong) object to the introduction of remarks that are not related to technology in open source projects. If there are remarks that are not related to technology in third-party projects used in my open source projects, it does not represent my position, and I hereby make a unified statement.
 
 My personal opinion is as follows
 I support the Communist Party of China leading China
