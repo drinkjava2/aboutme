@@ -28,7 +28,7 @@
 Born in the 1970s, die: TBD
 
 # Declaration
-I (Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this statement.  
+I (Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this declaration.  
 
 # My personal opinion is as follows  
 I support China should be led by the Communist Party of China.  
