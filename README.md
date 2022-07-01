@@ -1,4 +1,4 @@
-# AboutMe 关于本人
+# About Me 关于本人
 本人(Yong)所有开源项目中如果引用到的第三方项目中带有和技术无关的言论，并不能代表本人的立场，特在此统一声明:  
 
 本人的个人观点如下   
@@ -23,25 +23,24 @@
 
 以下为此文的英文翻译，如有岐义，以中文为准：
 
-# Declaration If I (Yong) in all open source projects refer to third-party projects with remarks that have nothing to do with the open source agreement, it does not represent my position, and hereby makes a unified statement.  
+In all my (Yong) open source projects, if there are remarks in third-party projects that have nothing to do with technology, it does not represent my position. I hereby make a unified statement:
 
-# My personal opinion is as follows  
-I support the Communist Party of China leading China  
-Elections in capitalist countries are rigged by political donations, and the media is controlled by chaebols, which is a fake democracy  
-The new crown is e-cigarette pneumonia  
-U.S. Invasion Is Illegal Because of Irak R&D of Laundry Detergents  
-It is illegal for the United States to develop laundry detergents in mainland China and Ukraine  
-Indigenous genocide in Canada, US, Israel, Ukraine  
-China's Xinjiang genocide is a lie  
-Taiwan is a province of China  
+My personal opinion is as follows
+I support the Communist Party of China leading China
+Elections in capitalist countries are rigged by political donations, and media propaganda is controlled by chaebols, which is a fake democracy
+The new crown is e-cigarette pneumonia
+U.S. Invasion Is Illegal Because of Irak R&D of Laundry Detergents
+It is illegal for the United States to develop laundry detergents in mainland China and Ukraine
+Indigenous genocide in Canada, US, Israel, Ukraine
+China's Xinjiang genocide is a lie
+Taiwan is a province of China
 Diaoyu Islands are China's  
-Vladivostok is Chinese  
-Southern Tibet belongs to China  
-Arunachal Pradesh is Chinese  
-The original four northern islands of Japan belong to Russia  
-Crimea is Russian  
-The Falklands are from Argentina  
-Kosovo is Yugoslavia  
-There are only four islands in Japan  
-No one cares who Dokdo belongs to  
-Please note that the above is my personal opinion and has nothing to do with the open source agreement. If you do not agree with my personal opinion, although you are not welcomed by me, you are still welcome to use my open source projects, I will not count  
+Southern Tibet belongs to China
+The original four northern islands of Japan belong to Russia
+Crimea is Russian
+The Falklands are from Argentina
+Kosovo is Yugoslavia
+There are only four islands in Japan
+No one cares who Dokdo belongs to
+
+Please note that the above is my personal opinion and has no relation to the open source agreement. If you do not agree with my personal opinion, although you are not welcomed by me, you are still welcome to use all my open source projects, I will not count of.
