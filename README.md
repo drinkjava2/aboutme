@@ -2,7 +2,8 @@
 生:70后, 卒:待定  
 
 # 声明  
-本人(朱勇)反对在开源项目中引入和技术无关的言论，如果本人的开源项目中使用的第三方项目中带有和技术无关的政治言论，并不能代表本人的立场，特在此统一声明。  
+本人(朱勇)反对在开源项目中引入和技术无关的言论，如果本人的开源项目中使用的第三方项目中带有和技术无关的政治言论，并不能代表本人的立场，特在此统一声明。此声明适用于我所有github和gitee网站上的开源项目。  
+
 
 # 本人的个人观点如下 
 中国应由中国共产党领导  
@@ -29,7 +30,7 @@
 Born in the 1970s, die: TBD
 
 # Declaration
-I (Zhu, Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this declaration.  
+I (Zhu, Yong) don't agree to the introduction of contents that are not related to technology in open source projects. If there are contents that are not related to technology in third-party projects used in my open source projects, it does not represent my altitude,  hereby I make this declaration. This statement applies to all my open source projects on github and gitee sites. 
 
 # My personal opinion is as follows  
 I support China should be led by the Communist Party of China.  
